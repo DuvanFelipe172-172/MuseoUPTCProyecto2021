@@ -1,0 +1,15 @@
+/* 
+    Created on : 18/05/2021, 12:18:13 AM
+    Author     : 57320
+*/
+
+
+.body{
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(../img/banner.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
